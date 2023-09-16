@@ -170,3 +170,4 @@ fig.add_annotation( # add a text callout with arrow
 )
 fig.write_html("../figures/figure.html")
 fig.show()
+# %%
