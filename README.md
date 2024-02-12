@@ -40,7 +40,7 @@ Their documenation compares Polars to some other Python data science tools
 
 > **Spark**
 
-Spark is designed for distributed workloads and uses the JVM. The setup for spark is complicated and the startup-time is slow. On a single machine Polars has much better performance characteristics. If you need to process TB's of data spark is a better choice.
+> Spark is designed for distributed workloads and uses the JVM. The setup for spark is complicated and the startup-time is slow. On a single machine Polars has much better performance characteristics. If you need to process TB's of data spark is a better choice.
 
 > [Polars Documentation](https://pola-rs.github.io/polars-book/user-guide/)
 
